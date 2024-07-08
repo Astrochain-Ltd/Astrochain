@@ -7,8 +7,6 @@
 
 *Note: information is preliminary and being updated*
 
-The funds after Sybil detection will be distributed according to Gitcoin suggested distribution to saturation, the rest funds are moved to DeSci matching pool for future rounds.
-
 ## Payout Transactions
 *Pending from Gitcoin*
 
