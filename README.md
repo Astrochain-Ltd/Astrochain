@@ -2,7 +2,9 @@
 ![Copy of astrochain-main-banner](https://github.com/joshhabka/Astrochain/assets/108092727/12da34e2-c26a-4cfd-9ee1-702c6795cfc9)
 
 AstroChain is the first decentralized platform to create a blockchain database of astronomy captures to promote education, scientific research, and innovation.
-**Website:** https://astrochain.net
+* **Website:** https://astrochain.net
+* **Documentation:** https://docs.astrochain.net/your-guide-to-astrochain
+
 
 # Astrochain Links
 * **X:** https://x.com/AstroChainLtd
