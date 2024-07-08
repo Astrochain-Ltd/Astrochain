@@ -20,6 +20,7 @@ AstroChain is the first decentralized platform to create a blockchain database o
 ![astrochain-astrocenter-subsystem-banner](https://github.com/joshhabka/Astrochain/assets/108092727/b893213c-ec33-4627-8317-972a09e127d8)
 
 The AstroCenter is a metaverse platform that offers educational and research opportunities for space and astronomy enthusiasts. With a focus on high energy and innovation, the AstroCenter brings together a global community of individuals passionate about space and learning. The AstroCenter provides a range of features and opportunities for people interested in the blockchain and NFTs, as well as influencers, speakers, photographers, designers, and more
+* **Linkedin:** https://www.linkedin.com/showcase/astrochain-center
 
 ## AstroFeed Subsystem
 ![bafkreiebf5qkss3my54cnvabaspyhpdsn77lh2etf2anxbadsda7a3xeaq](https://github.com/joshhabka/Astrochain/assets/108092727/0fb435bf-9b02-47be-9578-50c37a8f688c)
@@ -31,6 +32,7 @@ AstroFeed is a decentralized app (dApp) that provides a space for astrophotograp
 ![astrochain-decentralized-astronomical-catalog](https://github.com/joshhabka/Astrochain/assets/108092727/68f5ef77-a278-4b43-9512-9406fc51b55c)
 
 The first astronomical catalog on the blockchain. The Astrochain Decentralized Catalog stores linked data of astronomical objects, on the blockchain. The Astrochain Decentralized Catalog will be available in the Astrochain Decentralized App, available on web and mobile, and will allow seamless integration into existing data processing workflows. Brought to you by Astrochain and decentralized science.
+* **Linkedin:** https://www.linkedin.com/showcase/decentralized-astronomical-catalog
 
 ## Astrochain Science Communication Subsystem
 ![astrochain-science-education-subsystem](https://github.com/joshhabka/Astrochain/assets/108092727/66c1b63d-5b2a-4cf0-bbd0-0840e13d0e42)
