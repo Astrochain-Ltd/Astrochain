@@ -21,12 +21,14 @@ AstroChain is the first decentralized platform to create a blockchain database o
 
 The AstroCenter is a metaverse platform that offers educational and research opportunities for space and astronomy enthusiasts. With a focus on high energy and innovation, the AstroCenter brings together a global community of individuals passionate about space and learning. The AstroCenter provides a range of features and opportunities for people interested in the blockchain and NFTs, as well as influencers, speakers, photographers, designers, and more
 * **Linkedin:** https://www.linkedin.com/showcase/astrochain-center
+* **Docs:** https://docs.astrochain.net/your-guide-to-astrochain/the-acc-metaverse
 
 ## AstroFeed Subsystem
 ![bafkreiebf5qkss3my54cnvabaspyhpdsn77lh2etf2anxbadsda7a3xeaq](https://github.com/joshhabka/Astrochain/assets/108092727/0fb435bf-9b02-47be-9578-50c37a8f688c)
 
 AstroFeed is a decentralized app (dApp) that provides a space for astrophotographers to share their observations and experiences. It is a content sharing platform that allows astrophotographers to share their work with a community of like-minded individuals.
 * **Linkedin:** https://www.linkedin.com/showcase/astrofeed-subsystem
+* **Docs:** https://docs.astrochain.net/your-guide-to-astrochain/need-for-astrofeed
 
 ## Astrochain Decentralized Catalog Subsystem
 ![astrochain-decentralized-astronomical-catalog](https://github.com/joshhabka/Astrochain/assets/108092727/68f5ef77-a278-4b43-9512-9406fc51b55c)
